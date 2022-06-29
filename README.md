@@ -5,7 +5,7 @@
 
 > Beautiful UI of Disney plus and it resembles the original website with smooth animations
 
-### ✨ [Demo](prembheemunidisney.firebaseapp.com)
+### ✨ [Demo](http://prembheemunidisney.firebaseapp.com)
 
 ## Install
 
